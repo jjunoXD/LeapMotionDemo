@@ -1,0 +1,79 @@
+# Blender MTL File: 'None'
+# Material Count: 5
+
+Gold Crown from Cheonmachong Tomb_01
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Gold Crown from Cheonmachong Tomb_01_Normal.jpg
+map_Kd Gold Crown from Cheonmachong Tomb_01_Diffuse.jpg
+map_Ks Gold Crown from Cheonmachong Tomb_01_Occlusion.jpg
+map_Ns Gold Crown from Cheonmachong Tomb_01_Roughness.jpg
+refl Gold Crown from Cheonmachong Tomb_01_Metallic.jpg
+
+newmtl Gold Crown from Cheonmachong Tomb_02
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Gold Crown from Cheonmachong Tomb_02_Normal.jpg
+map_Kd Gold Crown from Cheonmachong Tomb_02_Diffuse.jpg
+map_Ks Gold Crown from Cheonmachong Tomb_02_Occlusion.jpg
+map_Ns Gold Crown from Cheonmachong Tomb_02_Roughness.jpg
+refl Gold Crown from Cheonmachong Tomb_02_Metallic.jpg
+
+newmtl Gold Crown from Cheonmachong Tomb_03
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Gold Crown from Cheonmachong Tomb_03_Normal.jpg
+map_Kd Gold Crown from Cheonmachong Tomb_03_Diffuse.jpg
+map_Ks Gold Crown from Cheonmachong Tomb_03_Occlusion.jpg
+map_Ns Gold Crown from Cheonmachong Tomb_03_Roughness.jpg
+refl Gold Crown from Cheonmachong Tomb_03_Metallic.jpg
+
+newmtl Gold Crown from Cheonmachong Tomb_04
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Gold Crown from Cheonmachong Tomb_04_Normal.jpg
+map_Kd Gold Crown from Cheonmachong Tomb_04_Diffuse.jpg
+map_Ks Gold Crown from Cheonmachong Tomb_04_Occlusion.jpg
+map_Ns Gold Crown from Cheonmachong Tomb_04_Roughness.jpg
+refl Gold Crown from Cheonmachong Tomb_04_Metallic.jpg
+
+
+newmtl Gold Crown from Cheonmachong Tomb_05
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Gold Crown from Cheonmachong Tomb_05_Normal.jpg
+map_Kd Gold Crown from Cheonmachong Tomb_05_Diffuse.jpg
+map_Ks Gold Crown from Cheonmachong Tomb_05_Occlusion.jpg
+map_Ns Gold Crown from Cheonmachong Tomb_05_Roughness.jpg
+refl Gold Crown from Cheonmachong Tomb_05_Metallic.jpg
+
